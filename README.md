@@ -2,6 +2,11 @@
 
 VibePay is an intelligent, natural-language expense tracker built for the **PromptWars challenge**. Instead of manually selecting categories, dates, and amounts from dropdown menus, users can simply type what they spent (e.g., *"Bought groceries worth 800 rupees at D-Mart"*), and the AI automatically categorizes and logs the transaction.
 
+<div align="center">
+  <img src="assets/main.png" alt="VibePay Main Interface">
+  <br><br>
+  <img src="assets/dashboard.png" alt="VibePay Dashboard Analytics">
+</div>
 ## ✨ Features
 * **Natural Language Processing:** Powered by `gemini-2.5-flash` to extract Amount, Category, Vendor, and Date from plain text.
 * **Premium Dashboard:** A clean, vibrant UI built with Streamlit, featuring real-time metric cards.
