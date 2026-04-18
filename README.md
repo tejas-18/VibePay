@@ -3,7 +3,7 @@
 VibePay is an intelligent, natural-language expense tracker. Instead of manually selecting categories, dates, and amounts from dropdown menus, users can simply type what they spent (e.g., *"Bought groceries worth 800 rupees at D-Mart"*), and the AI automatically categorizes and logs the transaction.
 
 <div align="center">
-  <img src="assets/main.png" alt="VibePay Main Interface">
+  <img src="assets/main_v2.png" alt="VibePay Main Interface">
   <br><br>
   <img src="assets/dashboard.png" alt="VibePay Dashboard Analytics">
 </div>
